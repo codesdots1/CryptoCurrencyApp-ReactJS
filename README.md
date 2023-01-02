@@ -1,7 +1,7 @@
 
-# Cryptocurrency with React JS, Material UI and Chart JS
+# Crypto Currency Application with React JS, Material UI and Chart JS
 
-A Cryptocurrency which built with React JS, Material UI and Chart JS. You can sign in with your Google Account and send realtime track the Crypto.
+A Crypto Currency Application which built with React JS, Material UI and Chart JS. You can sign in with your Google Account and send realtime track the Crypto.
 
 # Topics & Frachers
 
